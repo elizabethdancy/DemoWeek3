@@ -4,7 +4,7 @@ package demoweek3;
 
 /**
  * A class to model student Objects. A student has a name.
- * @author dancye, test 2023
+ * @author dancye, test 2023 adding comment on GitHub
  */
 public class Student 
 {
